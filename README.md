@@ -1,1 +1,1 @@
-![Excel Dashboard](Excel Dashboard Screenshot.png)
+![Excel Dashboard]([Excel Dashboard Screenshot.png](https://github.com/Mo-Shoba/Bike-Sales-Excel-Dashboard/blob/main/Excel%20Dashboard%20Screenshot.png)https://github.com/Mo-Shoba/Bike-Sales-Excel-Dashboard/blob/main/Excel%20Dashboard%20Screenshot.png)
