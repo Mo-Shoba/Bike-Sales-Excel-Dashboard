@@ -1,2 +1,2 @@
-#[Excel Dashboard]
+![Excel Dashboard]
 (Excel Dashboard Screenshot.png)
