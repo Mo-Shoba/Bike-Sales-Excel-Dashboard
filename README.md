@@ -8,7 +8,7 @@ In this project, we aim to gain insights into bike purchases by examining how sa
 
 ## Data
 
-The dataset used in this analysis can be found in the [data folder](Excel Project Dataset-1.xlsx). It includes detailed information about bike purchases, such as customer demographics, purchase date, and more.
+The dataset used in this analysis can be found in the data folder above. It includes detailed information about bike purchases, such as customer demographics, purchase date, and more.
 
 ## Analysis
 
