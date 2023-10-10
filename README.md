@@ -44,3 +44,7 @@ Stay tuned for updates and feel free to contribute or provide feedback!
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Screenshot
+
+![Dashboard Screenshot](/blob/main/Excel%20Dashboard%20Screenshot.png)
