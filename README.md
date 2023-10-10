@@ -1,1 +1,1 @@
-![Excel Dashboard](Excel Dashboard Screenshot.png)
+![Excel Dashboard](dashboard.png)
