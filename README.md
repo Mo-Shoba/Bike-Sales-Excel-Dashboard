@@ -47,4 +47,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshot
 
-![Dashboard Screenshot](/Bike-Sales-Excel-Dashboard/Excel Dashboard Screenshot.png)
+![Dashboard Screenshot](https://github.com/Mo-Shoba/Bike-Sales-Excel-Dashboard/blob/main/Excel%20Dashboard%20Screenshot.png)
